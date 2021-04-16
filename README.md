@@ -28,9 +28,9 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente de `<JAVA 8 / JDK>`
 * Você tem umaa IDE Java Spring instalada `<Spring Tools Suite>`
 
-## 📫 Contribuindo para <roject-Spring-Boot-MVC-Thymeleaf-JPA-PostgreSQL>
+## 📫 Contribuindo para <project-Spring-Boot-MVC-Thymeleaf-JPA-PostgreSQL>
   
-Para contribuir com <roject-Spring-Boot-MVC-Thymeleaf-JPA-PostgreSQL>, siga estas etapas:
+Para contribuir com <project-Spring-Boot-MVC-Thymeleaf-JPA-PostgreSQL>, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
