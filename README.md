@@ -2,6 +2,8 @@
 
 > Projeto de Crud baseado no projeto passado, porém utilizando Spring boot + Thymeleaf utilizando JPA para persistência de Dados e PostgreSQL como SGDB
 
+<p align="center"><img src="https://i.picasion.com/pic91/5e84b262746793ebf4ce921490c585f4.gif" width="430" height="300" border="1" alt="https://picasion.com/"/></a><br /><a href="https://picasion.com/"></p>
+
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
